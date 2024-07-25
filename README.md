@@ -1,3 +1,3 @@
-# Acche Blog
+# Blog Sphere
 ### These is a blog app made using react
-## Live link - https://achheblogs.vercel.app/
+## Live link - https://blog-sphere-gamma.vercel.app/                                                                                                                                 
